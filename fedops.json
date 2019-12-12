@@ -1,0 +1,11 @@
+{
+    "appName": "product-catalog-55",
+    "notifications": {
+      "slack_channels": [
+        "fedops-urgent-default"
+      ]
+    },
+    "deploy_annotations": [
+      "product-catalog-55"
+    ]
+  }
